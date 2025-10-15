@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@google/genai": "^1.25.0",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "js": "^0.1.0",
+    "mysql": "^2.18.1"
+  },
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "Backend para una app de notas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"\" && exit 1"
+  },
+  "author": "aledotcv",
+  "license": "ISC"
+}

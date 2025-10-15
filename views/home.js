@@ -1,0 +1,3 @@
+<title>Welcome!</title>
+
+<h1 class="text-center my-24 text-3xl">Welcome back <b>{{name}}</b></h1>
